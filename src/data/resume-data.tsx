@@ -34,6 +34,19 @@ export const RESUME_DATA: ResumeData = {
   ],
   work: [
     {
+      company: "WeSecureApp",
+      link: "",
+      badges: ["Cyber Security", "Penetration Testing"],
+      title: "Cyber Security Intern",
+      start: "2025",
+      end: "Present",
+      description: (
+        <>
+          Conducted comprehensive penetration testing and security assessments for various websites and web applications to identify and remediate vulnerabilities.
+        </>
+      ),
+    },
+    {
       company: "Technoz Pvt. Ltd.",
       link: "",
       badges: ["Remote", "Node.js", "TypeScript", "GSAP"],
